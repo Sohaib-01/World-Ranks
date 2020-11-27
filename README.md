@@ -1,5 +1,17 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+This is an application I built by following a tutorial done by a software developer on Youtube, called Thu Nghiem. The application was built using React and Next.js.
+
+By building this application I was able to learn:
+
+- Data sorting and filtering
+- Creating a responsive layout without any CSS framework (this was a challenge)
+- Created a Dark/Light Mode for the page
+- Sever-side rendering (something new for me)
+- Deploying with Vercel (again something new for me)
+
+I thank Thu Nghiem (https://github.com/nghiemthu) for doing this tutorial as it enabled me to learn various new things in the world of coding. Hopefully I will be able to use the skills I have learnt here into my other future projects.
+
 ## Getting Started
 
 First, run the development server:
